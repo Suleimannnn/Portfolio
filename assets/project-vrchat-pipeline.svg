@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">VRChat production pipeline</title>
+  <desc id="desc">Pipeline from Blender to FBX to Unity and VRChat, with current completed tasks.</desc>
+  <rect width="960" height="600" fill="#11151b"/>
+  <text x="64" y="82" fill="#e8edf4" font-family="sans-serif" font-size="26" font-weight="700">Blender → FBX → Unity → VRChat</text>
+  <text x="64" y="112" fill="#93a1b2" font-family="sans-serif" font-size="14">Room &amp; Avatar Pipeline Study</text>
+  <g font-family="sans-serif">
+    <rect x="64" y="176" width="172" height="116" rx="16" fill="#171c23" stroke="#364150"/>
+    <text x="90" y="220" fill="#86b7ff" font-size="20" font-weight="700">Blender</text>
+    <text x="90" y="251" fill="#aab5c3" font-size="13">3D asset creation</text>
+    <text x="90" y="272" fill="#aab5c3" font-size="13">Desk prop</text>
+
+    <rect x="278" y="176" width="172" height="116" rx="16" fill="#171c23" stroke="#364150"/>
+    <text x="306" y="220" fill="#86b7ff" font-size="20" font-weight="700">FBX</text>
+    <text x="306" y="251" fill="#aab5c3" font-size="13">Desk_v01.fbx</text>
+    <text x="306" y="272" fill="#aab5c3" font-size="13">Asset transfer</text>
+
+    <rect x="492" y="176" width="172" height="116" rx="16" fill="#171c23" stroke="#364150"/>
+    <text x="520" y="220" fill="#86b7ff" font-size="20" font-weight="700">Unity</text>
+    <text x="520" y="251" fill="#aab5c3" font-size="13">World scene</text>
+    <text x="520" y="272" fill="#aab5c3" font-size="13">Colliders / Spawn</text>
+
+    <rect x="706" y="176" width="172" height="116" rx="16" fill="#171c23" stroke="#364150"/>
+    <text x="734" y="220" fill="#86b7ff" font-size="20" font-weight="700">VRChat</text>
+    <text x="734" y="251" fill="#aab5c3" font-size="13">SDK validation</text>
+    <text x="734" y="272" fill="#aab5c3" font-size="13">World build</text>
+  </g>
+  <g stroke="#617186" stroke-width="2" fill="none">
+    <path d="M236 234 H270"/><path d="M450 234 H484"/><path d="M664 234 H698"/>
+  </g>
+  <g fill="#617186"><path d="M270 234 l-9 -6 v12z"/><path d="M484 234 l-9 -6 v12z"/><path d="M698 234 l-9 -6 v12z"/></g>
+  <rect x="64" y="356" width="814" height="164" rx="16" fill="#151a21" stroke="#303946"/>
+  <text x="90" y="397" fill="#e8edf4" font-family="sans-serif" font-size="18" font-weight="700">Week 1 · Room Prototype</text>
+  <g fill="#aab5c3" font-family="sans-serif" font-size="14">
+    <text x="90" y="433">Unity primitives로 방 구조 제작 · 바닥/벽 Collider 설정 · World Spawn 구성</text>
+    <text x="90" y="465">VRChat SDK world validation 통과 · Build 성공</text>
+    <text x="90" y="497">Troubleshooting: Build &amp; Test 후 VRChat Client 미설치 문제 확인</text>
+  </g>
+</svg>

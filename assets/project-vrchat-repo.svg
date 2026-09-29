@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">VRChat Room &amp; Avatar Pipeline repository structure</title>
+  <desc id="desc">Unity VRChat project repository with Assets, Models, Scenes, Packages and ProjectSettings folders.</desc>
+  <rect width="960" height="600" fill="#11151b"/>
+  <rect x="38" y="38" width="884" height="524" rx="18" fill="#171c23" stroke="#323b48"/>
+  <text x="72" y="88" fill="#86b7ff" font-family="monospace" font-size="18" font-weight="700">Suleimannnn / vrchat-room-avatar-project</text>
+  <text x="72" y="119" fill="#9aa7b7" font-family="monospace" font-size="13">Unity 2022.3.22f1 · VRChat World Project</text>
+  <line x1="72" y1="144" x2="888" y2="144" stroke="#303946"/>
+  <g font-family="monospace" font-size="16">
+    <text x="82" y="184" fill="#e8edf4">▾ Assets</text>
+    <text x="112" y="218" fill="#c9d2de">▾ Models</text>
+    <text x="142" y="250" fill="#c9d2de">▾ Props</text>
+    <text x="172" y="282" fill="#86b7ff">Desk_v01.fbx</text>
+    <text x="112" y="326" fill="#c9d2de">▾ Scenes</text>
+    <text x="142" y="358" fill="#86b7ff">VRCDefaultWorldScene.unity</text>
+    <text x="82" y="410" fill="#e8edf4">▸ Packages</text>
+    <text x="82" y="446" fill="#e8edf4">▸ ProjectSettings</text>
+    <text x="82" y="482" fill="#e8edf4">README.md</text>
+  </g>
+  <rect x="560" y="182" width="304" height="260" rx="14" fill="#10141a" stroke="#303946"/>
+  <text x="588" y="218" fill="#e8edf4" font-family="sans-serif" font-size="18" font-weight="700">Current World Prototype</text>
+  <g font-family="sans-serif" font-size="14" fill="#aab5c3">
+    <text x="588" y="258">✓ VCC world project</text>
+    <text x="588" y="290">✓ Floor &amp; four walls</text>
+    <text x="588" y="322">✓ Box / Mesh colliders</text>
+    <text x="588" y="354">✓ VRCWorld spawn setup</text>
+    <text x="588" y="386">✓ SDK validation &amp; build</text>
+  </g>
+  <text x="72" y="534" fill="#788595" font-family="sans-serif" font-size="12">Repository contents summarized from the current main branch.</text>
+</svg>
