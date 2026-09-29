@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480">
+  <rect width="760" height="480" fill="#151922"/>
+  <text x="38" y="48" fill="#ffb86c" font-family="Arial,sans-serif" font-size="13" font-weight="700">EARLY APPROACH · SAMPLE</text>
+  <rect x="38" y="74" width="684" height="350" rx="20" fill="#0d1117"/>
+  <g font-family="monospace" font-size="16">
+    <text x="66" y="126" fill="#d2a8ff">for</text><text x="98" y="126" fill="#e6edf3"> name </text><text x="150" y="126" fill="#d2a8ff">in</text><text x="175" y="126" fill="#e6edf3"> files:</text>
+    <text x="92" y="164" fill="#e6edf3">parts = name.split(</text><text x="268" y="164" fill="#a5d6ff">"."</text><text x="292" y="164" fill="#e6edf3">)</text>
+    <text x="92" y="202" fill="#e6edf3">ext = parts[-1].lower()</text>
+    <text x="92" y="240" fill="#d2a8ff">if</text><text x="115" y="240" fill="#e6edf3"> ext </text><text x="158" y="240" fill="#d2a8ff">not in</text><text x="217" y="240" fill="#e6edf3"> output_dict:</text>
+    <text x="118" y="278" fill="#e6edf3">output_dict[ext] = 1</text>
+    <text x="66" y="340" fill="#8b949e">Works, but path handling becomes awkward as rules grow.</text>
+  </g>
+</svg>

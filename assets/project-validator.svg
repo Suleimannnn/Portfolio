@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#11151d"/>
+  <rect x="35" y="34" width="890" height="532" rx="24" fill="#171c25" stroke="#30394a"/>
+  <text x="64" y="75" fill="#8ab4ff" font-family="Arial,sans-serif" font-size="14" font-weight="700">PYTHON ASSET VALIDATOR · SAMPLE</text>
+  <rect x="64" y="102" width="560" height="408" rx="18" fill="#0d1117"/>
+  <g font-family="monospace" font-size="15">
+    <text x="88" y="142" fill="#7ee787">$ python validator.py ./assets</text>
+    <text x="88" y="184" fill="#e6edf3">Character.FBX</text><text x="330" y="184" fill="#ff7b72">[UPPERCASE EXT]</text>
+    <text x="88" y="218" fill="#e6edf3">body.PNG</text><text x="330" y="218" fill="#ff7b72">[UPPERCASE EXT]</text>
+    <text x="88" y="252" fill="#e6edf3">face.png</text><text x="330" y="252" fill="#7ee787">[OK]</text>
+    <text x="88" y="286" fill="#e6edf3">character final.fbx</text><text x="330" y="286" fill="#ffa657">[SPACE]</text>
+    <text x="88" y="330" fill="#8b949e">Extension summary</text>
+    <text x="88" y="360" fill="#d2a8ff">fbx: 2   png: 2   wav: 1</text>
+    <text x="88" y="410" fill="#8b949e">5 files checked · 3 warnings</text>
+  </g>
+  <rect x="654" y="102" width="242" height="126" rx="18" fill="#202733"/>
+  <text x="676" y="132" fill="#91a0b3" font-family="Arial,sans-serif" font-size="11">CHECK RULES</text>
+  <text x="676" y="163" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">01  Extension case</text>
+  <text x="676" y="190" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">02  Filename spaces</text>
+  <text x="676" y="217" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">03  Extension count</text>
+  <rect x="654" y="250" width="242" height="128" rx="18" fill="#202733"/>
+  <text x="676" y="280" fill="#91a0b3" font-family="Arial,sans-serif" font-size="11">NEXT STEP</text>
+  <text x="676" y="311" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">Naming convention</text>
+  <text x="676" y="338" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">Folder structure</text>
+  <text x="676" y="365" fill="#f3f6fb" font-family="Arial,sans-serif" font-size="15">File size limits</text>
+  <text x="64" y="544" fill="#6f7b8c" font-family="Arial,sans-serif" font-size="11">Replace this SAMPLE mockup with a real terminal screenshot or GitHub README image.</text>
+</svg>
